@@ -34,6 +34,12 @@ list=> there are two type
 
 
 
+git commands 
+git add .
+git commit -m "msg"
+git push 
+
+
 
 
 CSS(cascading style sheets) = >  there are three type of css
